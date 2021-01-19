@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Bird of Paradise",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG8m3oP109iIN0JRPZCOPI2R09PUm-dLlRiA&usqp=CAU",
+      "price": 30.99,
+      "id": 8
     }
   ]
 }
